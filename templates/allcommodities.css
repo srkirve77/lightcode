@@ -1,0 +1,76 @@
+.card-panel {
+    background-color: #DCD5F1;
+}
+
+nav ul a {
+    color: black;
+}
+
+div.main {
+    padding: 5px 50px 75px 50px;
+}
+
+span,
+img {
+    vertical-align: middle;
+}
+
+.brand-logo>span,
+.brand-logo>img {
+    vertical-align: middle;
+}
+
+.container-sm {
+    height: 79vh;
+    width: 110vh;
+    overflow-y: hidden;
+    margin-left: 0vh;
+    position: fixed;
+}
+
+.navigation {
+    position: fixed;
+}
+
+.card-body {
+    color: black;
+}
+
+.card {
+    width: 45vh;
+    height: 20vh;
+}
+
+.nav-item {
+    width: 45vh;
+}
+
+.navbar {
+    width: auto;
+    height: 8.9vh;
+    margin-left: 0vh;
+    background-color: #DCD5F1;
+}
+
+nav {
+    background-color: #DCD5F1;
+}
+
+.nv-title {
+    text-align: center;
+}
+
+img {
+    height: 5vh;
+    width: 5vh;
+}
+
+col {
+    width: 30vh;
+    height: 10vh;
+    position: fixed;
+}
+
+.row {
+    margin-left: 3vh;
+}

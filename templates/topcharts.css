@@ -1,0 +1,95 @@
+.card-panel {
+    background-color: #DCD5F1;
+}
+
+nav ul a {
+    color: black;
+}
+
+div.main {
+    padding: 5px 50px 75px 50px;
+}
+
+span,
+img {
+    vertical-align: middle;
+}
+
+.nav-item {
+    width: 45vh;
+}
+
+.brand-logo>span,
+.brand-logo>img {
+    vertical-align: middle;
+}
+
+.container-sm {
+    height: 50vh;
+    width: auto;
+    overflow-y: hidden;
+    margin-left: 0vh;
+}
+
+.navigation {
+    position: fixed;
+}
+
+.navbar {
+    position: absolute;
+    width: auto;
+}
+
+.card-body {
+    color: black;
+}
+
+.card {
+    width: 105vh;
+}
+
+.navbar {
+    width: auto;
+    height: 8.9vh;
+    margin-left: 0vh;
+    background-color: #DCD5F1;
+}
+
+nav {
+    background-color: #DCD5F1;
+}
+
+.nv-title {
+    text-align: center;
+}
+
+.top-gainers {
+    width: 80vh;
+    height: 50vh;
+    margin-left: 10vh;
+    margin-top: 10vh;
+    background-image: linear-gradient(to bottom right, #BABAEE, #E0E0F3);
+    box-shadow: 2px 2px 20px;
+}
+
+.top-losers {
+    width: 80vh;
+    height: 50vh;
+    margin-top: -50vh;
+    margin-left: 100vh;
+    background-image: linear-gradient(to bottom right, #BABAEE, #E0E0F3);
+    box-shadow: 2px 2px 20px;
+}
+
+.header {
+    padding-left: 18em;
+    padding-top: 1em;
+}
+
+td {
+    text-align: center;
+}
+
+thead {
+    text-align: center;
+}

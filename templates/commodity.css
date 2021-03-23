@@ -1,0 +1,53 @@
+.card-panel {
+    background-color: #DCD5F1;
+}
+
+nav ul a {
+    color: black;
+}
+
+.navbar {
+    width: auto;
+    height: 8.9vh;
+    margin-left: 0vh;
+    background-color: #DCD5F1;
+    text-align: center;
+}
+
+nav {
+    background-color: #DCD5F1;
+}
+
+.nv-title {
+    text-align: center;
+}
+
+.card-body {
+    color: black;
+}
+
+.nav-item {
+    width: 45vh;
+    text-align: center;
+}
+
+.breif-forecast {
+    width: 78vh;
+    height: 42.5vh;
+    margin-left: -6vh;
+}
+
+.price-details {
+    width: 90vh;
+    margin-left: 6vh;
+}
+
+.trends {
+    width: 100vh;
+    margin-left: 6vh;
+    text-align: center;
+}
+
+.text-alignment {
+    text-align: center;
+}
